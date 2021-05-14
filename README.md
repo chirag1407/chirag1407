@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋, Chirag welcomes to his profile!
+### Happy to see you here!
 
-#GITHUB STATS
+#CHIRAG'S GITHUB STATS
 ![chirag's status](https://github-readme-stats.vercel.app/api?username=chirag1407&count_private=true&show_icons=true&theme=radical)
 
 #TOP LANGUAGES
