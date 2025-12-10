@@ -63,7 +63,6 @@ If it involves **good engineering**, I’m in.
 ## 📫 Reach Me
 
 - **Email:** chiragp57f@gmail.com  
-- **LinkedIn:** (drop link here)  
 
 ---
 
